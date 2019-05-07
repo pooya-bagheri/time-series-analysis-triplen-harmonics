@@ -1,0 +1,2 @@
+This projects employs Time Series Analysis on measurements of triplen harmonics in electrical systems. The project was for the "Time Series Analysis" course I took in Statistics department during my PhD program.
+The analyzed data is from actual field measurements, and the analysis is performed in R language.
